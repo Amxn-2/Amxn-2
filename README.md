@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Amxn-2
-- 👀 I’m interested in Developing Apps
-- 🌱 I’m currently learning Coding 
-- 💞️ I’m looking to collaborate on APIs
+- 👋 Hi, I’m Aman
+- 👀 I’m interested in Developing WEB-Apps
+- 🌱 I’m currently learning FrontEnd
 - 📫 How to reach me Email- amansharmaa1205@gmail.com
 
 <!---
