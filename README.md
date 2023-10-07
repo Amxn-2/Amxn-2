@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js , Go**
 
-- 👨‍💻 All of my projects are available at [Github.com/Amxn-2](Github.com/Amxn-2)
+- 👨‍💻 All of my projects are available at [Github.com/Amxn-2](https://github.com/Amxn-2?tab=repositories)
 
 - 💬 Ask me about **React**
 
